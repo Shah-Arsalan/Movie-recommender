@@ -1,2 +1,1 @@
-# neog-camp-mark-9
-Created with CodeSandbox
+This app will give you the meaning of different emojis
